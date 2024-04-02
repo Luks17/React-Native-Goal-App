@@ -3,6 +3,7 @@
     "name": "rn-practical",
     "slug": "rn-practical",
     "version": "1.0.0",
+    "backgroundColor": "#1e085a",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
